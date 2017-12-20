@@ -25703,7 +25703,7 @@ page-home .text-center {
 }
 
 page-home ion-grid {
-  margin-top: 70px;
+  margin-top: 5px;
 }
 
 page-home #apps {
@@ -25713,5 +25713,10 @@ page-home #apps {
 }
 
 page-home #myApp {
-  padding-bottom: 40px;
+  padding-bottom: 3px;
+}
+
+page-home #arrow {
+  color: white;
+  padding-left: 20px;
 }
